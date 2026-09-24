@@ -1,0 +1,9 @@
+# SimpleHouse
+
+> Nabídky nemovitostí kanceláře SimpleHouse.
+
+- Web: https://simplehouse.cz/
+
+## Nabídky (2)
+- Prodej bytu 2+kk 52 m² — Libeň, 15 350 000 Kč: prodej-bytu-2-kk-52-m2-1592012876/
+- Prodej bytu 3+kk 76 m² — Karlín, 12 360 000 Kč: prodej-bytu-3-kk-76-m2-592457804/
